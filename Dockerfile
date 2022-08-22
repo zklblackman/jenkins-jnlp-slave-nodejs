@@ -1,5 +1,5 @@
-FROM jenkinsci/jnlp-slave
-MAINTAINER zhouzhi073859@outlook.com
+FROM jenkins/ssh-slave
+MAINTAINER zkl_black_man@hotmail.com
 
 USER root
 
